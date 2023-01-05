@@ -5,7 +5,7 @@
 
 ## Список папок и изменения в них:
 
-### JavaScript
+### JavaScript - test
 
 * **JS_step_1** - Практика с personalmovieDB, часть 1
 * **JS_step_2** - Практика с циклами и условиями
